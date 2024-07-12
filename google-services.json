@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663713576345",
+    "project_id": "shopup-f9532",
+    "storage_bucket": "shopup-f9532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663713576345:android:554f1cae151fd12c758f08",
+        "android_client_info": {
+          "package_name": "com.apk.shopup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDusE1WqLNWXP8rAchmGX95UXeORJ2fVCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
